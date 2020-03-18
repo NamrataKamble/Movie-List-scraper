@@ -1,0 +1,19 @@
+{
+  "name": "axios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "jsdom": "^16.0.1",
+    "json2csv": "^4.5.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
